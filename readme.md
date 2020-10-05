@@ -1,5 +1,5 @@
 ### Deploy on Surge !!
-- aslambaba-uptown-project.surge.sh
+- aslambaba-uptown-project.netlify.app
 
 ### Using Languages
 - HTML5
