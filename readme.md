@@ -1,4 +1,4 @@
-### Deploy on Surge !!
+### Deploy on Netlify !!
 - aslambaba-uptown-project.netlify.app
 
 ### Using Languages
